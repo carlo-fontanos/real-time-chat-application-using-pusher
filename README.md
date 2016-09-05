@@ -19,4 +19,7 @@ WebSockets is an advanced technology that makes it possible to open an interacti
 + Step 5. Test the chat application in your server or local machine. Use 2 different browsers for the testing.
 
 ## The Tutorial
-Check out the tutorial on [this link](http://carlofontanos.com/building-a-real-time-chat-application-using-pusher/)
+Checkout the tutorial on [this link](http://carlofontanos.com/building-a-real-time-chat-application-using-pusher/)
+
+## Demo 
+Checkout the demo from this [link](http://carlofontanos.com/demo/real-time-chat-application-using-pusher/)
