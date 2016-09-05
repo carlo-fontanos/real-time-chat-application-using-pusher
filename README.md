@@ -22,4 +22,4 @@ WebSockets is an advanced technology that makes it possible to open an interacti
 Checkout the tutorial on [this link](http://carlofontanos.com/building-a-real-time-chat-application-using-pusher/)
 
 ## Demo 
-Checkout the demo from this [link](http://carlofontanos.com/demo/real-time-chat-application-using-pusher/)
+Checkout the demo from [this link](http://carlofontanos.com/demo/real-time-chat-application-using-pusher/)
